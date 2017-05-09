@@ -1,2 +1,1 @@
 # WeAre
-WeAre football app
